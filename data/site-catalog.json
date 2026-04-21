@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T02:08:21.714Z",
+  "generated_at": "2026-04-21T03:12:01.575Z",
   "active_profile": "abpcm",
   "catalog": {
     "site": {
@@ -21,7 +21,7 @@
       "googleDevelopers": "",
       "openProfile": "",
       "curriculum": "https://github.com/mozgbrasil/node-vitepress-abpcm",
-      "githubPages": "https://github.com/mozgbrasil/node-vitepress-abpcm",
+      "githubPages": "",
       "profileImage": "/logo-mini.svg",
       "institutionLogo": "",
       "mapsUrl": "",
@@ -59,11 +59,7 @@
         ],
         "sameAs": [
           "https://github.com/mozgbrasil/node-vitepress-abpcm",
-          "https://www.abpcm.org.br/",
-          "https://github.com/mozgbrasil/node-vitepress-abpcm",
-          "https://github.com/mozgbrasil/node-vitepress-abpcm",
-          "https://www.abpcm.org.br/",
-          "https://github.com/mozgbrasil/node-vitepress-abpcm"
+          "https://www.abpcm.org.br/"
         ]
       },
       "pixOptions": [],
@@ -355,7 +351,7 @@
     }
   },
   "audit": {
-    "generated_at": "2026-04-21T02:08:21.714Z",
+    "generated_at": "2026-04-21T03:12:01.575Z",
     "company": "ABPCM - Associação Brasileira de Pacientes de Cannabis Medicinal",
     "site_url": "https://www.abpcm.org.br/",
     "counts": {
