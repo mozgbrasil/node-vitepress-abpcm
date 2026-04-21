@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-04-21T00:39:42.656Z",
+  "filters_applied": {},
+  "total_signals": 2,
+  "total_available_signals": 2,
+  "linked_signals": 2,
+  "signals": [
+    {
+      "title": "Site oficial",
+      "description": "Referencia publica principal da entidade.",
+      "href": "https://www.abpcm.org.br/",
+      "value": "ABPCM"
+    },
+    {
+      "title": "Repositorio publico do perfil",
+      "description": "Base auditavel para distribuicao e manutencao.",
+      "href": "https://github.com/mozgbrasil/node-vitepress-abpcm",
+      "value": "GitHub"
+    }
+  ]
+}

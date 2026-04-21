@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-04-21T00:39:42.297Z",
+  "profile_id": "abpcm",
+  "label": "ABPCM",
+  "title": "ABPCM | Associação Brasileira de Pacientes de Cannabis Medicinal",
+  "headline": "Perfil institucional",
+  "primary_url": "https://www.abpcm.org.br/",
+  "public_repository": "https://github.com/mozgbrasil/node-vitepress-abpcm",
+  "site_url": "https://www.abpcm.org.br/",
+  "source_urls": [
+    "https://www.abpcm.org.br/",
+    "https://github.com/mozgbrasil/node-vitepress-abpcm"
+  ],
+  "reference_links": [
+    {
+      "href": "https://www.abpcm.org.br/",
+      "label": "ABPCM",
+      "note": "site institucional principal"
+    },
+    {
+      "href": "https://github.com/mozgbrasil/node-vitepress-abpcm",
+      "label": "Repositorio publico",
+      "note": "destino publico da superficie editorial"
+    }
+  ]
+}
