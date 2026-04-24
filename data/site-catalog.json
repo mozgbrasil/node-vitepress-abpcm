@@ -1,95 +1,159 @@
 {
-  "generated_at": "2026-04-21T03:12:01.575Z",
+  "generated_at": "2026-04-24T20:00:24.386Z",
   "active_profile": "abpcm",
   "catalog": {
     "site": {
       "title": "ABPCM | Associação Brasileira de Pacientes de Cannabis Medicinal",
-      "description": "Perfil institucional da ABPCM com referência pública no site oficial e repositório auditável.",
+      "description": "Portal nacional da ABPCM com legislacao, acesso, guia do paciente, associacao, governanca publica e ponte para a futura loja virtual Magento.",
       "author": "ABPCM - Associação Brasileira de Pacientes de Cannabis Medicinal",
       "company": "ABPCM - Associação Brasileira de Pacientes de Cannabis Medicinal",
-      "role": "Associação",
+      "role": "Associacao de pacientes e portal nacional de cannabis medicinal",
       "location": "Brasil",
-      "siteUrl": "https://www.abpcm.org.br/",
-      "socialImage": "https://www.abpcm.org.br/og.jpg",
-      "email": "",
-      "phone": "",
-      "whatsapp": "",
+      "siteUrl": "https://mozgbrasil.github.io/node-vitepress-abpcm/",
+      "socialImage": "https://mozgbrasil.github.io/node-vitepress-abpcm/og.jpg",
+      "email": "atendimento.abpcm@gmail.com",
+      "phone": "+55 11 92202-3780",
+      "whatsapp": "+55 11 92202-3780",
       "linkedIn": "",
       "github": "https://github.com/mozgbrasil/node-vitepress-abpcm",
       "bluesky": "",
       "githubSponsors": "",
       "googleDevelopers": "",
       "openProfile": "",
-      "curriculum": "https://github.com/mozgbrasil/node-vitepress-abpcm",
+      "curriculum": "https://www.abpcm.org.br/",
       "githubPages": "",
       "profileImage": "/logo-mini.svg",
       "institutionLogo": "",
-      "mapsUrl": "",
-      "mapsEmbedUrl": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Av.+Paulista+1636+CJ.+4+Sala+1504+Bela+Vista+Sao+Paulo+SP+01310-200",
+      "mapsEmbedUrl": "https://www.google.com/maps?q=Av.+Paulista+1636+CJ.+4+Sala+1504+Bela+Vista+Sao+Paulo+SP+01310-200&output=embed",
       "address": {
-        "street": "",
-        "city": "",
-        "state": "",
-        "postalCode": "",
-        "country": ""
+        "street": "Av. Paulista, 1636, CJ. 4, Sala 1504",
+        "city": "Sao Paulo",
+        "state": "SP",
+        "postalCode": "01310-200",
+        "country": "Brasil"
       },
       "startedYear": 1999,
       "foundedYear": 2016,
       "keywords": [
         "ABPCM",
         "Associação Brasileira de Pacientes de Cannabis Medicinal",
-        "perfil institucional",
-        "repositorio publico"
+        "cannabis medicinal Brasil",
+        "legislacao cannabis medicinal",
+        "acesso cannabis medicinal",
+        "Anvisa RDC 660/2022",
+        "Anvisa RDC 1.014/2026",
+        "STJ IAC 16",
+        "guia do paciente",
+        "associacao de pacientes",
+        "loja virtual Magento"
       ],
       "structuredData": {
         "@context": "https://schema.org",
-        "@type": "Person",
+        "@type": "Organization",
         "name": "ABPCM - Associação Brasileira de Pacientes de Cannabis Medicinal",
-        "url": "https://www.abpcm.org.br/",
-        "jobTitle": "Associação",
-        "worksFor": {
-          "@type": "Organization",
-          "name": "ABPCM - Associação Brasileira de Pacientes de Cannabis Medicinal"
+        "url": "https://mozgbrasil.github.io/node-vitepress-abpcm/",
+        "email": "mailto:atendimento.abpcm@gmail.com",
+        "telephone": "+55 11 92202-3780",
+        "description": "Portal nacional da ABPCM com legislacao, acesso, guia do paciente, associacao, governanca publica e ponte para a futura loja virtual Magento.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Av. Paulista, 1636, CJ. 4, Sala 1504",
+          "addressLocality": "Sao Paulo",
+          "addressRegion": "SP",
+          "postalCode": "01310-200",
+          "addressCountry": "Brasil"
         },
         "knowsAbout": [
           "ABPCM",
           "Associação Brasileira de Pacientes de Cannabis Medicinal",
-          "perfil institucional",
-          "repositorio publico"
+          "cannabis medicinal Brasil",
+          "legislacao cannabis medicinal",
+          "acesso cannabis medicinal",
+          "Anvisa RDC 660/2022",
+          "Anvisa RDC 1.014/2026",
+          "STJ IAC 16",
+          "guia do paciente",
+          "associacao de pacientes",
+          "loja virtual Magento"
         ],
         "sameAs": [
           "https://github.com/mozgbrasil/node-vitepress-abpcm",
-          "https://www.abpcm.org.br/"
+          "https://mozgbrasil.github.io/node-vitepress-abpcm/",
+          "https://www.abpcm.org.br/",
+          "https://www.abpcm.org.br/associe-se",
+          "https://www.abpcm.org.br/general-5",
+          "https://www.abpcm.org.br/general-8",
+          "https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/controlados/cannabis",
+          "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-aprova-por-unanimidade-regras-que-cumprem-decisao-do-stj-para-producao-de-cannabis-medicinal",
+          "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2024/14112024-STJ-valida-cultivo-medicinal-da-cannabis-por-empresas-e-da-prazo-para-regulamentacao.aspx",
+          "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2025/28022025-Negado-pedido-da-Anvisa-por-mais-prazo-para-regulamentar-uso-da-cannabis-com-fins-medicinais.aspx",
+          "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm?authuser=0"
         ]
       },
       "pixOptions": [],
       "businessEntities": [
         {
           "name": "ABPCM",
-          "cnpj": "",
+          "cnpj": "58.002.162/0001-49",
           "website": "https://www.abpcm.org.br/",
-          "role": "site institucional principal",
-          "note": "Referencia publica principal da operacao."
+          "role": "associacao de pacientes e superficie institucional principal",
+          "note": "Associacao com missao, valores, atendimento e fluxo publico de associacao descritos no site oficial."
         },
         {
-          "name": "node-vitepress-abpcm",
+          "name": "Portal ABPCM",
           "cnpj": "",
-          "website": "https://github.com/mozgbrasil/node-vitepress-abpcm",
-          "role": "repositorio publico de distribuicao",
-          "note": "Destino publico da superficie editorial."
+          "website": "https://mozgbrasil.github.io/node-vitepress-abpcm/",
+          "role": "portal editorial nacional com trilhas de legislacao, acesso e orientacao",
+          "note": "Camada publica complementar preparada para crescimento editorial e futura integracao Magento."
         }
       ]
     },
     "hero": {
       "name": "ABPCM",
-      "text": "Perfil institucional com site público e repositório auditável",
-      "tagline": "Site oficial e repositório público mantêm a presença organizada."
+      "text": "Portal nacional de cannabis medicinal para pacientes, familias e prescritores",
+      "tagline": "Legislacao, acesso, guia do paciente, associacao, governanca e atendimento em uma superficie publica unica, auditavel e pronta para evoluir."
     },
     "pages": [
       {
         "path": "/",
         "title": "ABPCM | Associação Brasileira de Pacientes de Cannabis Medicinal",
-        "description": "Perfil institucional da ABPCM com referência pública no site oficial e repositório auditável."
+        "description": "Portal nacional da ABPCM com legislacao, acesso, guia do paciente, associacao, governanca publica e ponte para a futura loja virtual Magento."
+      },
+      {
+        "path": "/legislacao",
+        "title": "Legislacao",
+        "description": "Panorama regulatorio da cannabis medicinal no Brasil com links oficiais da Lei 11.343/2006, STJ e Anvisa.",
+        "titleEn": "Legislation",
+        "descriptionEn": "Brazilian medicinal cannabis regulatory overview with official links to Law 11.343/2006, STJ and Anvisa."
+      },
+      {
+        "path": "/acesso",
+        "title": "Acesso",
+        "description": "Rotas praticas de acesso por farmacias, importacao excepcional e associacao de pacientes.",
+        "titleEn": "Access",
+        "descriptionEn": "Practical access routes through pharmacies, exceptional import authorization and patient associations."
+      },
+      {
+        "path": "/guia-do-paciente",
+        "title": "Guia do paciente",
+        "description": "Checklist para pacientes, familiares e prescritores antes de iniciar o atendimento com cannabis medicinal.",
+        "titleEn": "Patient guide",
+        "descriptionEn": "Checklist for patients, families and prescribers before starting a medicinal cannabis care journey."
+      },
+      {
+        "path": "/associacao",
+        "title": "Associacao",
+        "description": "Missao, governanca, estatuto, servicos e canais publicos da ABPCM.",
+        "titleEn": "Association",
+        "descriptionEn": "ABPCM mission, governance, bylaws, services and public channels."
+      },
+      {
+        "path": "/loja-virtual",
+        "title": "Loja virtual",
+        "description": "Ponte publica para a futura integracao Magento e para o fluxo atual da associacao.",
+        "titleEn": "Virtual store",
+        "descriptionEn": "Public bridge to the future Magento integration and the current association flow."
       },
       {
         "path": "/contato",
@@ -105,25 +169,25 @@
     "specialties": [],
     "journeyMilestones": [
       {
-        "year": "Atual",
-        "title": "Presença institucional clara",
-        "description": "O site oficial aparece como referência pública principal da entidade."
+        "year": "2024",
+        "title": "STJ reconhece a possibilidade juridica do cultivo medicinal por pessoas juridicas",
+        "description": "Em 13 de novembro de 2024, o STJ julgou o IAC 16 e fixou teses para regulamentacao do cultivo com THC inferior a 0,3% para fins medicinais e farmaceuticos."
       },
       {
-        "year": "Atual",
-        "title": "Base auditável",
-        "description": "O repositório público funciona como espelho editorial do perfil."
+        "year": "2025",
+        "title": "Prazo regulatorio mantido pelo STJ",
+        "description": "Em 28 de fevereiro de 2025, o STJ negou mais prazo a Anvisa e a Uniao para regulamentar o tema, mantendo a contagem iniciada em 19 de novembro de 2024."
       },
       {
-        "year": "Atual",
-        "title": "Evolução previsível",
-        "description": "A estrutura suporta novos blocos sem perder simplicidade."
+        "year": "2026",
+        "title": "Anvisa publica novas RDCs e atualiza o marco de acesso",
+        "description": "Em janeiro e fevereiro de 2026, a Anvisa aprovou regras para producao, associacoes, pesquisa e atualizacao do marco regulatorio de fabricacao e importacao."
       }
     ],
     "experienceHighlights": [
-      "Perfil institucional ancorado em site oficial.",
-      "Repositório público como superfície auditável.",
-      "Base pronta para expansão leve e coerente."
+      "Portal orientado a pacientes, familias, prescritores e apoiadores com leitura pratica sobre legislacao e acesso.",
+      "Associacao com contato publico por e-mail, WhatsApp, endereco em Sao Paulo e documentos de governanca publicados.",
+      "Base editorial pronta para auditoria, crescimento nacional e futura integracao com a loja virtual Magento."
     ],
     "flagshipProjects": [],
     "portfolioEntries": [],
@@ -135,29 +199,83 @@
     "operationalSignals": [],
     "publishedSurfaces": [
       {
+        "title": "Portal ABPCM",
+        "description": "Superficie editorial dedicada com trilhas de legislacao, acesso, guia do paciente e associacao.",
+        "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/"
+      },
+      {
+        "title": "Legislacao",
+        "description": "Panorama regulatorio com Lei 11.343/2006, STJ, Anvisa e referencias oficiais.",
+        "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/legislacao"
+      },
+      {
+        "title": "Acesso",
+        "description": "Rotas praticas de acesso por farmacias, importacao excepcional e associacao de pacientes.",
+        "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/acesso"
+      },
+      {
+        "title": "Guia do paciente",
+        "description": "Checklist para consulta, prescricao, documentos, acompanhamento e orientacao responsavel.",
+        "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/guia-do-paciente"
+      },
+      {
+        "title": "Associacao",
+        "description": "Missao, estatuto, politicas, servicos e canais publicos da ABPCM em uma leitura unica.",
+        "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/associacao"
+      },
+      {
+        "title": "Loja virtual",
+        "description": "Central publica para a futura integracao Magento e para o fluxo atual do dispensario.",
+        "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/loja-virtual"
+      },
+      {
         "title": "Site oficial",
-        "description": "Referencia pública principal da ABPCM.",
+        "description": "Superficie institucional principal com associacao, atendimento e servicos.",
         "href": "https://www.abpcm.org.br/"
       },
       {
-        "title": "Repositorio publico",
-        "description": "Espelho editorial auditável do perfil.",
-        "href": "https://github.com/mozgbrasil/node-vitepress-abpcm"
+        "title": "Associe-se",
+        "description": "Fluxo publico de cadastro com documentacao e orientacoes para entrada na associacao.",
+        "href": "https://www.abpcm.org.br/associe-se"
       }
     ],
     "publicJourneys": [],
     "trustSignals": [
       {
-        "title": "Site oficial",
-        "description": "Referencia publica principal da entidade.",
+        "title": "CNPJ e sede publicados",
+        "description": "A associacao publica CNPJ, e-mail, WhatsApp e endereco da sede na Avenida Paulista.",
         "href": "https://www.abpcm.org.br/",
-        "value": "ABPCM"
+        "value": "58.002.162/0001-49"
       },
       {
-        "title": "Repositorio publico do perfil",
-        "description": "Base auditavel para distribuicao e manutencao.",
-        "href": "https://github.com/mozgbrasil/node-vitepress-abpcm",
-        "value": "GitHub"
+        "title": "Estatuto e codigo de conduta",
+        "description": "A governanca institucional fica acessivel em pagina publica com estatuto social e principios eticos.",
+        "href": "https://www.abpcm.org.br/general-8",
+        "value": "Governanca publica"
+      },
+      {
+        "title": "Politicas, consentimento e regras publicadas",
+        "description": "O site oficial mantem termos de consentimento, politicas e regras de acesso publicadas.",
+        "href": "https://www.abpcm.org.br/general-5",
+        "value": "Politicas publicas"
+      },
+      {
+        "title": "Anvisa - acesso e importacao",
+        "description": "A rota oficial de importacao excepcional informa cadastro, analise, comprovante e fiscalizacao na entrada no pais.",
+        "href": "https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/controlados/cannabis",
+        "value": "RDC 660/2022"
+      },
+      {
+        "title": "Anvisa 2026",
+        "description": "A atualizacao regulatoria de 2026 organizou producao, associacoes, pesquisa e fabricacao/importacao.",
+        "href": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-aprova-por-unanimidade-regras-que-cumprem-decisao-do-stj-para-producao-de-cannabis-medicinal",
+        "value": "RDC 1.012-1.015/2026"
+      },
+      {
+        "title": "STJ IAC 16",
+        "description": "O julgamento de novembro de 2024 e a decisao de fevereiro de 2025 ajudam a explicar o marco recente do tema no Brasil.",
+        "href": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2024/14112024-STJ-valida-cultivo-medicinal-da-cannabis-por-empresas-e-da-prazo-para-regulamentacao.aspx",
+        "value": "Nov 2024 / Fev 2025"
       }
     ],
     "operationalPillars": [],
@@ -271,51 +389,139 @@
     ],
     "contactLinks": [
       {
-        "href": "https://www.abpcm.org.br/",
-        "label": "Site oficial",
-        "note": "site institucional principal"
+        "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/legislacao",
+        "label": "Legislacao",
+        "note": "panorama regulatorio oficial"
       },
       {
-        "href": "https://github.com/mozgbrasil/node-vitepress-abpcm",
-        "label": "Repositorio publico",
-        "note": "destino de publicacao do perfil"
+        "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/acesso",
+        "label": "Acesso",
+        "note": "rotas praticas de atendimento e tratamento"
+      },
+      {
+        "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/guia-do-paciente",
+        "label": "Guia do paciente",
+        "note": "checklist para pacientes, familias e prescritores"
+      },
+      {
+        "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/loja-virtual",
+        "label": "Loja virtual",
+        "note": "ponte para a futura integracao Magento"
+      },
+      {
+        "href": "https://www.abpcm.org.br/associe-se",
+        "label": "Associe-se",
+        "note": "cadastro de associados e documentacao"
+      },
+      {
+        "href": "https://www.abpcm.org.br/",
+        "label": "Site oficial",
+        "note": "superficie institucional principal"
+      },
+      {
+        "href": "mailto:atendimento.abpcm@gmail.com",
+        "label": "E-mail",
+        "note": "canal publico de atendimento"
+      },
+      {
+        "href": "https://wa.me/5511922023780",
+        "label": "WhatsApp",
+        "note": "contato rapido da associacao"
+      },
+      {
+        "href": "https://www.google.com/maps/search/?api=1&query=Av.+Paulista+1636+CJ.+4+Sala+1504+Bela+Vista+Sao+Paulo+SP+01310-200",
+        "label": "Google Maps",
+        "note": "localizacao publica da sede"
+      },
+      {
+        "href": "https://www.abpcm.org.br/general-8",
+        "label": "Estatuto social",
+        "note": "governanca e codigo de conduta"
+      },
+      {
+        "href": "https://www.abpcm.org.br/general-5",
+        "label": "Politicas do site",
+        "note": "consentimento, termos e regras publicadas"
       }
     ],
     "presenceProfiles": [
       {
         "accent": "brand",
-        "label": "Perfil institucional",
-        "title": "abpcm",
+        "label": "Portal nacional",
+        "title": "ABPCM",
         "handle": "@abpcm",
-        "summary": "Presença institucional com o site oficial da ABPCM e um repositório público de distribuição.",
+        "summary": "Presenca institucional organizada como portal nacional sobre cannabis medicinal, com legislacao, acesso, guia do paciente, associacao e atendimento.",
         "image": "/logo-mini.svg",
-        "imageAlt": "Marca institucional do perfil ABPCM",
-        "imageNote": "Superficie institucional da ABPCM",
+        "imageAlt": "Marca institucional da ABPCM",
+        "imageNote": "Portal editorial e institucional da ABPCM",
         "primaryLinks": [
           {
-            "href": "https://www.abpcm.org.br/",
-            "label": "Site oficial",
-            "note": "site institucional principal"
+            "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/",
+            "label": "Portal ABPCM",
+            "note": "superficie publica dedicada"
           },
           {
-            "href": "https://github.com/mozgbrasil/node-vitepress-abpcm",
-            "label": "Repositorio publico",
-            "note": "publicacao do perfil"
+            "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/legislacao",
+            "label": "Legislacao",
+            "note": "marco regulatorio e links oficiais"
+          },
+          {
+            "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/acesso",
+            "label": "Acesso",
+            "note": "rotas praticas para tratamento"
+          },
+          {
+            "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/loja-virtual",
+            "label": "Loja virtual",
+            "note": "central para futura integracao Magento"
           }
         ],
         "groups": [
           {
-            "title": "Base publica",
+            "title": "Portal do paciente",
             "links": [
-              { "href": "https://www.abpcm.org.br/", "label": "Site oficial" }
+              {
+                "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/guia-do-paciente",
+                "label": "Guia do paciente"
+              },
+              {
+                "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/acesso",
+                "label": "Acesso"
+              },
+              {
+                "href": "https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/controlados/cannabis",
+                "label": "Anvisa - importacao"
+              }
             ]
           },
           {
-            "title": "Distribuicao editorial",
+            "title": "Associacao e governanca",
             "links": [
               {
-                "href": "https://github.com/mozgbrasil/node-vitepress-abpcm",
-                "label": "Repositorio publico"
+                "href": "https://www.abpcm.org.br/associe-se",
+                "label": "Associe-se"
+              },
+              {
+                "href": "https://www.abpcm.org.br/general-8",
+                "label": "Estatuto social"
+              },
+              {
+                "href": "https://www.abpcm.org.br/general-5",
+                "label": "Politicas do site"
+              }
+            ]
+          },
+          {
+            "title": "Atendimento e territorio",
+            "links": [
+              {
+                "href": "mailto:atendimento.abpcm@gmail.com",
+                "label": "E-mail"
+              },
+              { "href": "https://wa.me/5511922023780", "label": "WhatsApp" },
+              {
+                "href": "https://www.google.com/maps/search/?api=1&query=Av.+Paulista+1636+CJ.+4+Sala+1504+Bela+Vista+Sao+Paulo+SP+01310-200",
+                "label": "Google Maps"
               }
             ]
           }
@@ -327,18 +533,61 @@
       "slug": "abpcm",
       "label": "ABPCM",
       "title": "ABPCM | Associação Brasileira de Pacientes de Cannabis Medicinal",
-      "headline": "Perfil institucional",
+      "headline": "Portal nacional",
       "publicRepository": "https://github.com/mozgbrasil/node-vitepress-abpcm",
       "primaryUrl": "https://www.abpcm.org.br/",
       "sourceUrls": [
         "https://www.abpcm.org.br/",
+        "https://www.abpcm.org.br/associe-se",
+        "https://www.abpcm.org.br/general-5",
+        "https://www.abpcm.org.br/general-8",
+        "https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/controlados/cannabis",
+        "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-aprova-por-unanimidade-regras-que-cumprem-decisao-do-stj-para-producao-de-cannabis-medicinal",
+        "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2024/14112024-STJ-valida-cultivo-medicinal-da-cannabis-por-empresas-e-da-prazo-para-regulamentacao.aspx",
+        "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2025/28022025-Negado-pedido-da-Anvisa-por-mais-prazo-para-regulamentar-uso-da-cannabis-com-fins-medicinais.aspx",
+        "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm?authuser=0",
         "https://github.com/mozgbrasil/node-vitepress-abpcm"
       ],
       "referenceLinks": [
         {
           "href": "https://www.abpcm.org.br/",
-          "label": "ABPCM",
-          "note": "site institucional principal"
+          "label": "Site oficial",
+          "note": "presenca institucional principal da associacao"
+        },
+        {
+          "href": "https://www.abpcm.org.br/associe-se",
+          "label": "Associe-se",
+          "note": "cadastro de associados com requisitos e documentacao publicados"
+        },
+        {
+          "href": "https://www.abpcm.org.br/general-8",
+          "label": "Estatuto social",
+          "note": "governanca, codigo de conduta e principios eticos"
+        },
+        {
+          "href": "https://www.abpcm.org.br/general-5",
+          "label": "Politicas do site",
+          "note": "termos, consentimento e regras publicadas pela associacao"
+        },
+        {
+          "href": "https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/controlados/cannabis",
+          "label": "Anvisa - importacao",
+          "note": "rota oficial para importacao excepcional de produtos derivados de cannabis"
+        },
+        {
+          "href": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-aprova-por-unanimidade-regras-que-cumprem-decisao-do-stj-para-producao-de-cannabis-medicinal",
+          "label": "Anvisa 2026",
+          "note": "novas regras para producao, associacoes e atualizacao regulatoria"
+        },
+        {
+          "href": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2024/14112024-STJ-valida-cultivo-medicinal-da-cannabis-por-empresas-e-da-prazo-para-regulamentacao.aspx",
+          "label": "STJ IAC 16",
+          "note": "decisao de 13 de novembro de 2024 sobre cultivo medicinal por pessoas juridicas"
+        },
+        {
+          "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/",
+          "label": "Portal ABPCM",
+          "note": "superficie publica dedicada com legislacao, acesso e guia do paciente"
         },
         {
           "href": "https://github.com/mozgbrasil/node-vitepress-abpcm",
@@ -346,18 +595,107 @@
           "note": "destino publico da superficie editorial"
         }
       ],
-      "heroMetrics": [],
-      "heroMetricsEn": []
+      "schemaType": "Organization",
+      "heroMetrics": [
+        {
+          "value": "Lei 11.343/2006",
+          "label": "base legal para autorizacao medicinal ou cientifica sob fiscalizacao"
+        },
+        {
+          "value": "RDC 660/2022",
+          "label": "rota oficial de importacao excepcional via Anvisa"
+        },
+        {
+          "value": "RDC 1.014/2026",
+          "label": "instrumento especifico para associacoes de pacientes"
+        }
+      ],
+      "heroMetricsEn": [
+        {
+          "value": "Law 11.343/2006",
+          "label": "legal basis for medicinal or scientific authorization under inspection"
+        },
+        {
+          "value": "RDC 660/2022",
+          "label": "official Anvisa path for exceptional import authorization"
+        },
+        {
+          "value": "RDC 1.014/2026",
+          "label": "specific regulatory instrument for patient associations"
+        }
+      ],
+      "navLinks": [
+        { "text": "Início", "textEn": "Home", "link": "/" },
+        {
+          "text": "Legislacao",
+          "textEn": "Legislation",
+          "link": "/legislacao"
+        },
+        { "text": "Acesso", "textEn": "Access", "link": "/acesso" },
+        {
+          "text": "Guia do paciente",
+          "textEn": "Patient guide",
+          "link": "/guia-do-paciente"
+        },
+        {
+          "text": "Associacao",
+          "textEn": "Association",
+          "link": "/associacao"
+        },
+        {
+          "text": "Loja virtual",
+          "textEn": "Virtual store",
+          "link": "/loja-virtual"
+        },
+        { "text": "Contato", "textEn": "Contact", "link": "/contato" }
+      ],
+      "pages": [
+        {
+          "path": "/legislacao",
+          "title": "Legislacao",
+          "description": "Panorama regulatorio da cannabis medicinal no Brasil com links oficiais da Lei 11.343/2006, STJ e Anvisa.",
+          "titleEn": "Legislation",
+          "descriptionEn": "Brazilian medicinal cannabis regulatory overview with official links to Law 11.343/2006, STJ and Anvisa."
+        },
+        {
+          "path": "/acesso",
+          "title": "Acesso",
+          "description": "Rotas praticas de acesso por farmacias, importacao excepcional e associacao de pacientes.",
+          "titleEn": "Access",
+          "descriptionEn": "Practical access routes through pharmacies, exceptional import authorization and patient associations."
+        },
+        {
+          "path": "/guia-do-paciente",
+          "title": "Guia do paciente",
+          "description": "Checklist para pacientes, familiares e prescritores antes de iniciar o atendimento com cannabis medicinal.",
+          "titleEn": "Patient guide",
+          "descriptionEn": "Checklist for patients, families and prescribers before starting a medicinal cannabis care journey."
+        },
+        {
+          "path": "/associacao",
+          "title": "Associacao",
+          "description": "Missao, governanca, estatuto, servicos e canais publicos da ABPCM.",
+          "titleEn": "Association",
+          "descriptionEn": "ABPCM mission, governance, bylaws, services and public channels."
+        },
+        {
+          "path": "/loja-virtual",
+          "title": "Loja virtual",
+          "description": "Ponte publica para a futura integracao Magento e para o fluxo atual da associacao.",
+          "titleEn": "Virtual store",
+          "descriptionEn": "Public bridge to the future Magento integration and the current association flow."
+        }
+      ]
     }
   },
   "audit": {
-    "generated_at": "2026-04-21T03:12:01.575Z",
+    "generated_at": "2026-04-24T20:00:24.386Z",
     "company": "ABPCM - Associação Brasileira de Pacientes de Cannabis Medicinal",
-    "site_url": "https://www.abpcm.org.br/",
+    "site_url": "https://mozgbrasil.github.io/node-vitepress-abpcm/",
     "counts": {
-      "pages": 3,
+      "pages": 8,
       "api_routes": 21,
-      "discovery_items": 34,
+      "discovery_items": 67,
       "portfolio_entries": 0,
       "project_dossiers": 0,
       "category_profiles": 0,
@@ -366,16 +704,25 @@
       "stack_technologies": 0,
       "operation_dossiers": 0,
       "public_journeys": 0,
-      "trust_signals": 2,
+      "trust_signals": 6,
       "specialties": 0,
       "projects": 0,
-      "surfaces": 2,
+      "surfaces": 8,
       "presence_profiles": 1,
-      "presence_groups": 2,
-      "presence_links": 4,
-      "contact_links": 2
+      "presence_groups": 3,
+      "presence_links": 13,
+      "contact_links": 11
     },
-    "pages": ["/", "/contato", "/presenca"],
+    "pages": [
+      "/",
+      "/legislacao",
+      "/acesso",
+      "/guia-do-paciente",
+      "/associacao",
+      "/loja-virtual",
+      "/contato",
+      "/presenca"
+    ],
     "api_paths": [
       "/api/health",
       "/api/openapi.json",

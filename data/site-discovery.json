@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-21T03:12:01.575Z",
+  "generated_at": "2026-04-24T20:00:24.386Z",
   "filters_applied": {},
-  "total_items": 34,
-  "total_available_items": 34,
+  "total_items": 67,
+  "total_available_items": 67,
   "kinds": [
     { "label": "api", "count": 21 },
-    { "label": "presence", "count": 4 },
-    { "label": "page", "count": 3 },
-    { "label": "contact", "count": 2 },
-    { "label": "surface", "count": 2 },
-    { "label": "trust", "count": 2 }
+    { "label": "presence", "count": 13 },
+    { "label": "contact", "count": 11 },
+    { "label": "page", "count": 8 },
+    { "label": "surface", "count": 8 },
+    { "label": "trust", "count": 6 }
   ],
   "items": [
     {
@@ -202,30 +202,129 @@
       "meta": "Endpoint publico"
     },
     {
-      "id": "contact-repositorio-publico",
+      "id": "contact-acesso",
       "kind": "contact",
-      "title": "Repositorio publico",
-      "description": "destino de publicacao do perfil",
-      "href": "https://github.com/mozgbrasil/node-vitepress-abpcm",
-      "tags": ["contato", "canal", "repositorio-publico"],
+      "title": "Acesso",
+      "description": "rotas praticas de atendimento e tratamento",
+      "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/acesso",
+      "tags": ["contato", "canal", "acesso"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-associe-se",
+      "kind": "contact",
+      "title": "Associe-se",
+      "description": "cadastro de associados e documentacao",
+      "href": "https://www.abpcm.org.br/associe-se",
+      "tags": ["contato", "canal", "associe-se"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-e-mail",
+      "kind": "contact",
+      "title": "E-mail",
+      "description": "canal publico de atendimento",
+      "href": "mailto:atendimento.abpcm@gmail.com",
+      "tags": ["contato", "canal", "e-mail"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-estatuto-social",
+      "kind": "contact",
+      "title": "Estatuto social",
+      "description": "governanca e codigo de conduta",
+      "href": "https://www.abpcm.org.br/general-8",
+      "tags": ["contato", "canal", "estatuto-social"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-google-maps",
+      "kind": "contact",
+      "title": "Google Maps",
+      "description": "localizacao publica da sede",
+      "href": "https://www.google.com/maps/search/?api=1&query=Av.+Paulista+1636+CJ.+4+Sala+1504+Bela+Vista+Sao+Paulo+SP+01310-200",
+      "tags": ["contato", "canal", "google-maps"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-guia-do-paciente",
+      "kind": "contact",
+      "title": "Guia do paciente",
+      "description": "checklist para pacientes, familias e prescritores",
+      "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/guia-do-paciente",
+      "tags": ["contato", "canal", "guia-do-paciente"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-legislacao",
+      "kind": "contact",
+      "title": "Legislacao",
+      "description": "panorama regulatorio oficial",
+      "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/legislacao",
+      "tags": ["contato", "canal", "legislacao"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-loja-virtual",
+      "kind": "contact",
+      "title": "Loja virtual",
+      "description": "ponte para a futura integracao Magento",
+      "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/loja-virtual",
+      "tags": ["contato", "canal", "loja-virtual"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-politicas-do-site",
+      "kind": "contact",
+      "title": "Politicas do site",
+      "description": "consentimento, termos e regras publicadas",
+      "href": "https://www.abpcm.org.br/general-5",
+      "tags": ["contato", "canal", "politicas-do-site"],
       "meta": "Contato principal"
     },
     {
       "id": "contact-site-oficial",
       "kind": "contact",
       "title": "Site oficial",
-      "description": "site institucional principal",
+      "description": "superficie institucional principal",
       "href": "https://www.abpcm.org.br/",
       "tags": ["contato", "canal", "site-oficial"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-whatsapp",
+      "kind": "contact",
+      "title": "WhatsApp",
+      "description": "contato rapido da associacao",
+      "href": "https://wa.me/5511922023780",
+      "tags": ["contato", "canal", "whatsapp"],
       "meta": "Contato principal"
     },
     {
       "id": "page-abpcm-associacao-brasileira-de-pacientes-de-cannabis-medicinal",
       "kind": "page",
       "title": "ABPCM | Associação Brasileira de Pacientes de Cannabis Medicinal",
-      "description": "Perfil institucional da ABPCM com referência pública no site oficial e repositório auditável.",
+      "description": "Portal nacional da ABPCM com legislacao, acesso, guia do paciente, associacao, governanca publica e ponte para a futura loja virtual Magento.",
       "href": "/",
       "tags": ["pagina", "site", "/"],
+      "meta": "Navegacao principal"
+    },
+    {
+      "id": "page-acesso",
+      "kind": "page",
+      "title": "Acesso",
+      "description": "Rotas praticas de acesso por farmacias, importacao excepcional e associacao de pacientes.",
+      "href": "/acesso",
+      "tags": ["pagina", "site", "/acesso"],
+      "meta": "Navegacao principal"
+    },
+    {
+      "id": "page-associacao",
+      "kind": "page",
+      "title": "Associacao",
+      "description": "Missao, governanca, estatuto, servicos e canais publicos da ABPCM.",
+      "href": "/associacao",
+      "tags": ["pagina", "site", "/associacao"],
       "meta": "Navegacao principal"
     },
     {
@@ -238,6 +337,33 @@
       "meta": "Navegacao principal"
     },
     {
+      "id": "page-guia-do-paciente",
+      "kind": "page",
+      "title": "Guia do paciente",
+      "description": "Checklist para pacientes, familiares e prescritores antes de iniciar o atendimento com cannabis medicinal.",
+      "href": "/guia-do-paciente",
+      "tags": ["pagina", "site", "/guia-do-paciente"],
+      "meta": "Navegacao principal"
+    },
+    {
+      "id": "page-legislacao",
+      "kind": "page",
+      "title": "Legislacao",
+      "description": "Panorama regulatorio da cannabis medicinal no Brasil com links oficiais da Lei 11.343/2006, STJ e Anvisa.",
+      "href": "/legislacao",
+      "tags": ["pagina", "site", "/legislacao"],
+      "meta": "Navegacao principal"
+    },
+    {
+      "id": "page-loja-virtual",
+      "kind": "page",
+      "title": "Loja virtual",
+      "description": "Ponte publica para a futura integracao Magento e para o fluxo atual da associacao.",
+      "href": "/loja-virtual",
+      "tags": ["pagina", "site", "/loja-virtual"],
+      "meta": "Navegacao principal"
+    },
+    {
       "id": "page-perfis",
       "kind": "page",
       "title": "Perfis",
@@ -247,52 +373,192 @@
       "meta": "Navegacao principal"
     },
     {
-      "id": "presence-abpcm-base-publica-site-oficial",
+      "id": "presence-abpcm-acesso",
       "kind": "presence",
-      "title": "abpcm · Base publica · Site oficial",
-      "description": "Perfil institucional no grupo Base publica.",
-      "href": "https://www.abpcm.org.br/",
-      "tags": ["brand", "presenca", "base-publica", "site-oficial"],
+      "title": "ABPCM · Acesso",
+      "description": "rotas praticas para tratamento",
+      "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/acesso",
+      "tags": ["brand", "presenca", "acesso"],
       "meta": "@abpcm"
     },
     {
-      "id": "presence-abpcm-distribuicao-editorial-repositorio-publico",
+      "id": "presence-abpcm-associacao-e-governanca-associe-se",
       "kind": "presence",
-      "title": "abpcm · Distribuicao editorial · Repositorio publico",
-      "description": "Perfil institucional no grupo Distribuicao editorial.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-abpcm",
+      "title": "ABPCM · Associacao e governanca · Associe-se",
+      "description": "Portal nacional no grupo Associacao e governanca.",
+      "href": "https://www.abpcm.org.br/associe-se",
+      "tags": ["brand", "presenca", "associacao-e-governanca", "associe-se"],
+      "meta": "@abpcm"
+    },
+    {
+      "id": "presence-abpcm-associacao-e-governanca-estatuto-social",
+      "kind": "presence",
+      "title": "ABPCM · Associacao e governanca · Estatuto social",
+      "description": "Portal nacional no grupo Associacao e governanca.",
+      "href": "https://www.abpcm.org.br/general-8",
       "tags": [
         "brand",
         "presenca",
-        "distribuicao-editorial",
-        "repositorio-publico"
+        "associacao-e-governanca",
+        "estatuto-social"
       ],
       "meta": "@abpcm"
     },
     {
-      "id": "presence-abpcm-repositorio-publico",
+      "id": "presence-abpcm-associacao-e-governanca-politicas-do-site",
       "kind": "presence",
-      "title": "abpcm · Repositorio publico",
-      "description": "publicacao do perfil",
-      "href": "https://github.com/mozgbrasil/node-vitepress-abpcm",
-      "tags": ["brand", "presenca", "repositorio-publico"],
+      "title": "ABPCM · Associacao e governanca · Politicas do site",
+      "description": "Portal nacional no grupo Associacao e governanca.",
+      "href": "https://www.abpcm.org.br/general-5",
+      "tags": [
+        "brand",
+        "presenca",
+        "associacao-e-governanca",
+        "politicas-do-site"
+      ],
       "meta": "@abpcm"
     },
     {
-      "id": "presence-abpcm-site-oficial",
+      "id": "presence-abpcm-atendimento-e-territorio-e-mail",
       "kind": "presence",
-      "title": "abpcm · Site oficial",
-      "description": "site institucional principal",
-      "href": "https://www.abpcm.org.br/",
-      "tags": ["brand", "presenca", "site-oficial"],
+      "title": "ABPCM · Atendimento e territorio · E-mail",
+      "description": "Portal nacional no grupo Atendimento e territorio.",
+      "href": "mailto:atendimento.abpcm@gmail.com",
+      "tags": ["brand", "presenca", "atendimento-e-territorio", "e-mail"],
       "meta": "@abpcm"
     },
     {
-      "id": "surface-repositorio-publico",
+      "id": "presence-abpcm-atendimento-e-territorio-google-maps",
+      "kind": "presence",
+      "title": "ABPCM · Atendimento e territorio · Google Maps",
+      "description": "Portal nacional no grupo Atendimento e territorio.",
+      "href": "https://www.google.com/maps/search/?api=1&query=Av.+Paulista+1636+CJ.+4+Sala+1504+Bela+Vista+Sao+Paulo+SP+01310-200",
+      "tags": ["brand", "presenca", "atendimento-e-territorio", "google-maps"],
+      "meta": "@abpcm"
+    },
+    {
+      "id": "presence-abpcm-atendimento-e-territorio-whatsapp",
+      "kind": "presence",
+      "title": "ABPCM · Atendimento e territorio · WhatsApp",
+      "description": "Portal nacional no grupo Atendimento e territorio.",
+      "href": "https://wa.me/5511922023780",
+      "tags": ["brand", "presenca", "atendimento-e-territorio", "whatsapp"],
+      "meta": "@abpcm"
+    },
+    {
+      "id": "presence-abpcm-legislacao",
+      "kind": "presence",
+      "title": "ABPCM · Legislacao",
+      "description": "marco regulatorio e links oficiais",
+      "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/legislacao",
+      "tags": ["brand", "presenca", "legislacao"],
+      "meta": "@abpcm"
+    },
+    {
+      "id": "presence-abpcm-loja-virtual",
+      "kind": "presence",
+      "title": "ABPCM · Loja virtual",
+      "description": "central para futura integracao Magento",
+      "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/loja-virtual",
+      "tags": ["brand", "presenca", "loja-virtual"],
+      "meta": "@abpcm"
+    },
+    {
+      "id": "presence-abpcm-portal-abpcm",
+      "kind": "presence",
+      "title": "ABPCM · Portal ABPCM",
+      "description": "superficie publica dedicada",
+      "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/",
+      "tags": ["brand", "presenca", "portal-abpcm"],
+      "meta": "@abpcm"
+    },
+    {
+      "id": "presence-abpcm-portal-do-paciente-acesso",
+      "kind": "presence",
+      "title": "ABPCM · Portal do paciente · Acesso",
+      "description": "Portal nacional no grupo Portal do paciente.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/acesso",
+      "tags": ["brand", "presenca", "portal-do-paciente", "acesso"],
+      "meta": "@abpcm"
+    },
+    {
+      "id": "presence-abpcm-portal-do-paciente-anvisa-importacao",
+      "kind": "presence",
+      "title": "ABPCM · Portal do paciente · Anvisa - importacao",
+      "description": "Portal nacional no grupo Portal do paciente.",
+      "href": "https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/controlados/cannabis",
+      "tags": ["brand", "presenca", "portal-do-paciente", "anvisa-importacao"],
+      "meta": "@abpcm"
+    },
+    {
+      "id": "presence-abpcm-portal-do-paciente-guia-do-paciente",
+      "kind": "presence",
+      "title": "ABPCM · Portal do paciente · Guia do paciente",
+      "description": "Portal nacional no grupo Portal do paciente.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/guia-do-paciente",
+      "tags": ["brand", "presenca", "portal-do-paciente", "guia-do-paciente"],
+      "meta": "@abpcm"
+    },
+    {
+      "id": "surface-acesso",
       "kind": "surface",
-      "title": "Repositorio publico",
-      "description": "Espelho editorial auditável do perfil.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-abpcm",
+      "title": "Acesso",
+      "description": "Rotas praticas de acesso por farmacias, importacao excepcional e associacao de pacientes.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/acesso",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
+    },
+    {
+      "id": "surface-associacao",
+      "kind": "surface",
+      "title": "Associacao",
+      "description": "Missao, estatuto, politicas, servicos e canais publicos da ABPCM em uma leitura unica.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/associacao",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
+    },
+    {
+      "id": "surface-associe-se",
+      "kind": "surface",
+      "title": "Associe-se",
+      "description": "Fluxo publico de cadastro com documentacao e orientacoes para entrada na associacao.",
+      "href": "https://www.abpcm.org.br/associe-se",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
+    },
+    {
+      "id": "surface-guia-do-paciente",
+      "kind": "surface",
+      "title": "Guia do paciente",
+      "description": "Checklist para consulta, prescricao, documentos, acompanhamento e orientacao responsavel.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/guia-do-paciente",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
+    },
+    {
+      "id": "surface-legislacao",
+      "kind": "surface",
+      "title": "Legislacao",
+      "description": "Panorama regulatorio com Lei 11.343/2006, STJ, Anvisa e referencias oficiais.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/legislacao",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
+    },
+    {
+      "id": "surface-loja-virtual",
+      "kind": "surface",
+      "title": "Loja virtual",
+      "description": "Central publica para a futura integracao Magento e para o fluxo atual do dispensario.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/loja-virtual",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
+    },
+    {
+      "id": "surface-portal-abpcm",
+      "kind": "surface",
+      "title": "Portal ABPCM",
+      "description": "Superficie editorial dedicada com trilhas de legislacao, acesso, guia do paciente e associacao.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/",
       "tags": ["superficie", "publico", "distribuicao"],
       "meta": "Canal publico"
     },
@@ -300,28 +566,68 @@
       "id": "surface-site-oficial",
       "kind": "surface",
       "title": "Site oficial",
-      "description": "Referencia pública principal da ABPCM.",
+      "description": "Superficie institucional principal com associacao, atendimento e servicos.",
       "href": "https://www.abpcm.org.br/",
       "tags": ["superficie", "publico", "distribuicao"],
       "meta": "Canal publico"
     },
     {
-      "id": "trust-repositorio-publico-do-perfil",
+      "id": "trust-anvisa-acesso-e-importacao",
       "kind": "trust",
-      "title": "Repositorio publico do perfil",
-      "description": "Base auditavel para distribuicao e manutencao.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-abpcm",
-      "tags": ["confianca", "institucional", "repositorio-publico-do-perfil"],
-      "meta": "GitHub"
+      "title": "Anvisa - acesso e importacao",
+      "description": "A rota oficial de importacao excepcional informa cadastro, analise, comprovante e fiscalizacao na entrada no pais.",
+      "href": "https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/controlados/cannabis",
+      "tags": ["confianca", "institucional", "anvisa-acesso-e-importacao"],
+      "meta": "RDC 660/2022"
     },
     {
-      "id": "trust-site-oficial",
+      "id": "trust-anvisa-2026",
       "kind": "trust",
-      "title": "Site oficial",
-      "description": "Referencia publica principal da entidade.",
+      "title": "Anvisa 2026",
+      "description": "A atualizacao regulatoria de 2026 organizou producao, associacoes, pesquisa e fabricacao/importacao.",
+      "href": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-aprova-por-unanimidade-regras-que-cumprem-decisao-do-stj-para-producao-de-cannabis-medicinal",
+      "tags": ["confianca", "institucional", "anvisa-2026"],
+      "meta": "RDC 1.012-1.015/2026"
+    },
+    {
+      "id": "trust-cnpj-e-sede-publicados",
+      "kind": "trust",
+      "title": "CNPJ e sede publicados",
+      "description": "A associacao publica CNPJ, e-mail, WhatsApp e endereco da sede na Avenida Paulista.",
       "href": "https://www.abpcm.org.br",
-      "tags": ["confianca", "institucional", "site-oficial"],
-      "meta": "ABPCM"
+      "tags": ["confianca", "institucional", "cnpj-e-sede-publicados"],
+      "meta": "58.002.162/0001-49"
+    },
+    {
+      "id": "trust-estatuto-e-codigo-de-conduta",
+      "kind": "trust",
+      "title": "Estatuto e codigo de conduta",
+      "description": "A governanca institucional fica acessivel em pagina publica com estatuto social e principios eticos.",
+      "href": "https://www.abpcm.org.br/general-8",
+      "tags": ["confianca", "institucional", "estatuto-e-codigo-de-conduta"],
+      "meta": "Governanca publica"
+    },
+    {
+      "id": "trust-politicas-consentimento-e-regras-publicadas",
+      "kind": "trust",
+      "title": "Politicas, consentimento e regras publicadas",
+      "description": "O site oficial mantem termos de consentimento, politicas e regras de acesso publicadas.",
+      "href": "https://www.abpcm.org.br/general-5",
+      "tags": [
+        "confianca",
+        "institucional",
+        "politicas-consentimento-e-regras-publicadas"
+      ],
+      "meta": "Politicas publicas"
+    },
+    {
+      "id": "trust-stj-iac-16",
+      "kind": "trust",
+      "title": "STJ IAC 16",
+      "description": "O julgamento de novembro de 2024 e a decisao de fevereiro de 2025 ajudam a explicar o marco recente do tema no Brasil.",
+      "href": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2024/14112024-STJ-valida-cultivo-medicinal-da-cannabis-por-empresas-e-da-prazo-para-regulamentacao.aspx",
+      "tags": ["confianca", "institucional", "stj-iac-16"],
+      "meta": "Nov 2024 / Fev 2025"
     }
   ]
 }

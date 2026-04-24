@@ -1,21 +1,45 @@
 {
-  "generated_at": "2026-04-21T03:12:01.575Z",
+  "generated_at": "2026-04-24T20:00:24.386Z",
   "filters_applied": {},
-  "total_signals": 2,
-  "total_available_signals": 2,
-  "linked_signals": 2,
+  "total_signals": 6,
+  "total_available_signals": 6,
+  "linked_signals": 6,
   "signals": [
     {
-      "title": "Site oficial",
-      "description": "Referencia publica principal da entidade.",
+      "title": "CNPJ e sede publicados",
+      "description": "A associacao publica CNPJ, e-mail, WhatsApp e endereco da sede na Avenida Paulista.",
       "href": "https://www.abpcm.org.br/",
-      "value": "ABPCM"
+      "value": "58.002.162/0001-49"
     },
     {
-      "title": "Repositorio publico do perfil",
-      "description": "Base auditavel para distribuicao e manutencao.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-abpcm",
-      "value": "GitHub"
+      "title": "Estatuto e codigo de conduta",
+      "description": "A governanca institucional fica acessivel em pagina publica com estatuto social e principios eticos.",
+      "href": "https://www.abpcm.org.br/general-8",
+      "value": "Governanca publica"
+    },
+    {
+      "title": "Politicas, consentimento e regras publicadas",
+      "description": "O site oficial mantem termos de consentimento, politicas e regras de acesso publicadas.",
+      "href": "https://www.abpcm.org.br/general-5",
+      "value": "Politicas publicas"
+    },
+    {
+      "title": "Anvisa - acesso e importacao",
+      "description": "A rota oficial de importacao excepcional informa cadastro, analise, comprovante e fiscalizacao na entrada no pais.",
+      "href": "https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/controlados/cannabis",
+      "value": "RDC 660/2022"
+    },
+    {
+      "title": "Anvisa 2026",
+      "description": "A atualizacao regulatoria de 2026 organizou producao, associacoes, pesquisa e fabricacao/importacao.",
+      "href": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-aprova-por-unanimidade-regras-que-cumprem-decisao-do-stj-para-producao-de-cannabis-medicinal",
+      "value": "RDC 1.012-1.015/2026"
+    },
+    {
+      "title": "STJ IAC 16",
+      "description": "O julgamento de novembro de 2024 e a decisao de fevereiro de 2025 ajudam a explicar o marco recente do tema no Brasil.",
+      "href": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2024/14112024-STJ-valida-cultivo-medicinal-da-cannabis-por-empresas-e-da-prazo-para-regulamentacao.aspx",
+      "value": "Nov 2024 / Fev 2025"
     }
   ]
 }

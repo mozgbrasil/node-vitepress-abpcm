@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T03:12:01.575Z",
+  "generated_at": "2026-04-24T20:00:24.386Z",
   "company": "ABPCM - Associação Brasileira de Pacientes de Cannabis Medicinal",
-  "site_url": "https://www.abpcm.org.br/",
+  "site_url": "https://mozgbrasil.github.io/node-vitepress-abpcm/",
   "counts": {
-    "pages": 3,
+    "pages": 8,
     "api_routes": 21,
-    "discovery_items": 34,
+    "discovery_items": 67,
     "portfolio_entries": 0,
     "project_dossiers": 0,
     "category_profiles": 0,
@@ -14,16 +14,25 @@
     "stack_technologies": 0,
     "operation_dossiers": 0,
     "public_journeys": 0,
-    "trust_signals": 2,
+    "trust_signals": 6,
     "specialties": 0,
     "projects": 0,
-    "surfaces": 2,
+    "surfaces": 8,
     "presence_profiles": 1,
-    "presence_groups": 2,
-    "presence_links": 4,
-    "contact_links": 2
+    "presence_groups": 3,
+    "presence_links": 13,
+    "contact_links": 11
   },
-  "pages": ["/", "/contato", "/presenca"],
+  "pages": [
+    "/",
+    "/legislacao",
+    "/acesso",
+    "/guia-do-paciente",
+    "/associacao",
+    "/loja-virtual",
+    "/contato",
+    "/presenca"
+  ],
   "api_paths": [
     "/api/health",
     "/api/openapi.json",

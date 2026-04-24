@@ -2,18 +2,23 @@
 
 - Company: ABPCM - Associação Brasileira de Pacientes de Cannabis Medicinal
 - Author: ABPCM - Associação Brasileira de Pacientes de Cannabis Medicinal
-- Role: Associação
+- Role: Associacao de pacientes e portal nacional de cannabis medicinal
 - Location: Brasil
-- Site: https://www.abpcm.org.br/
-- Generated at: 2026-04-21T03:12:01.575Z
+- Site: https://mozgbrasil.github.io/node-vitepress-abpcm/
+- Generated at: 2026-04-24T20:00:24.386Z
 
 ## Summary
-Perfil institucional da ABPCM com referência pública no site oficial e repositório auditável.
+Portal nacional da ABPCM com legislacao, acesso, guia do paciente, associacao, governanca publica e ponte para a futura loja virtual Magento.
 
 ## Pages
-- ABPCM | Associação Brasileira de Pacientes de Cannabis Medicinal: https://www.abpcm.org.br//
-- Contato: https://www.abpcm.org.br//contato
-- Perfis: https://www.abpcm.org.br//presenca
+- ABPCM | Associação Brasileira de Pacientes de Cannabis Medicinal: https://mozgbrasil.github.io/node-vitepress-abpcm//
+- Legislacao: https://mozgbrasil.github.io/node-vitepress-abpcm//legislacao
+- Acesso: https://mozgbrasil.github.io/node-vitepress-abpcm//acesso
+- Guia do paciente: https://mozgbrasil.github.io/node-vitepress-abpcm//guia-do-paciente
+- Associacao: https://mozgbrasil.github.io/node-vitepress-abpcm//associacao
+- Loja virtual: https://mozgbrasil.github.io/node-vitepress-abpcm//loja-virtual
+- Contato: https://mozgbrasil.github.io/node-vitepress-abpcm//contato
+- Perfis: https://mozgbrasil.github.io/node-vitepress-abpcm//presenca
 
 ## API
 - GET /api/health: Status operacional e metadados de request.
@@ -63,24 +68,28 @@ Perfil institucional da ABPCM com referência pública no site oficial e reposit
 
 
 ## Trust Signals
-- Site oficial: Referencia publica principal da entidade. [ABPCM]
-- Repositorio publico do perfil: Base auditavel para distribuicao e manutencao. [GitHub]
+- CNPJ e sede publicados: A associacao publica CNPJ, e-mail, WhatsApp e endereco da sede na Avenida Paulista. [58.002.162/0001-49]
+- Estatuto e codigo de conduta: A governanca institucional fica acessivel em pagina publica com estatuto social e principios eticos. [Governanca publica]
+- Politicas, consentimento e regras publicadas: O site oficial mantem termos de consentimento, politicas e regras de acesso publicadas. [Politicas publicas]
+- Anvisa - acesso e importacao: A rota oficial de importacao excepcional informa cadastro, analise, comprovante e fiscalizacao na entrada no pais. [RDC 660/2022]
+- Anvisa 2026: A atualizacao regulatoria de 2026 organizou producao, associacoes, pesquisa e fabricacao/importacao. [RDC 1.012-1.015/2026]
+- STJ IAC 16: O julgamento de novembro de 2024 e a decisao de fevereiro de 2025 ajudam a explicar o marco recente do tema no Brasil. [Nov 2024 / Fev 2025]
 
 ## Static Exports
-- https://www.abpcm.org.br//data/site-catalog.json
-- https://www.abpcm.org.br//data/site-audit.json
-- https://www.abpcm.org.br//data/site-discovery.json
-- https://www.abpcm.org.br//data/site-portfolio.json
-- https://www.abpcm.org.br//data/site-categories.json
-- https://www.abpcm.org.br//data/site-capabilities.json
-- https://www.abpcm.org.br//data/site-projects.json
-- https://www.abpcm.org.br//data/site-stacks.json
-- https://www.abpcm.org.br//data/site-operations.json
-- https://www.abpcm.org.br//data/site-journeys.json
-- https://www.abpcm.org.br//data/site-trust.json
-- https://www.abpcm.org.br//data/site-profiles.json
-- https://www.abpcm.org.br//llms.txt
-- https://www.abpcm.org.br//robots.txt
+- https://mozgbrasil.github.io/node-vitepress-abpcm//data/site-catalog.json
+- https://mozgbrasil.github.io/node-vitepress-abpcm//data/site-audit.json
+- https://mozgbrasil.github.io/node-vitepress-abpcm//data/site-discovery.json
+- https://mozgbrasil.github.io/node-vitepress-abpcm//data/site-portfolio.json
+- https://mozgbrasil.github.io/node-vitepress-abpcm//data/site-categories.json
+- https://mozgbrasil.github.io/node-vitepress-abpcm//data/site-capabilities.json
+- https://mozgbrasil.github.io/node-vitepress-abpcm//data/site-projects.json
+- https://mozgbrasil.github.io/node-vitepress-abpcm//data/site-stacks.json
+- https://mozgbrasil.github.io/node-vitepress-abpcm//data/site-operations.json
+- https://mozgbrasil.github.io/node-vitepress-abpcm//data/site-journeys.json
+- https://mozgbrasil.github.io/node-vitepress-abpcm//data/site-trust.json
+- https://mozgbrasil.github.io/node-vitepress-abpcm//data/site-profiles.json
+- https://mozgbrasil.github.io/node-vitepress-abpcm//llms.txt
+- https://mozgbrasil.github.io/node-vitepress-abpcm//robots.txt
 
 ## Quality Gates
 

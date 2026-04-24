@@ -1,7 +1,7 @@
 {
   "name": "ABPCM | Associação Brasileira de Pacientes de Cannabis Medicinal",
   "short_name": "ABPCM - Associação Brasileira de Pacientes de Cannabis Medicinal",
-  "description": "Perfil institucional da ABPCM com referência pública no site oficial e repositório auditável.",
+  "description": "Portal nacional da ABPCM com legislacao, acesso, guia do paciente, associacao, governanca publica e ponte para a futura loja virtual Magento.",
   "lang": "pt-BR",
   "dir": "ltr",
   "start_url": "/node-vitepress-abpcm/",
@@ -9,11 +9,7 @@
   "display": "standalone",
   "background_color": "#09101b",
   "theme_color": "#0f172a",
-  "categories": [
-    "technology",
-    "business",
-    "productivity"
-  ],
+  "categories": ["technology", "business", "productivity"],
   "icons": [
     {
       "src": "/node-vitepress-abpcm/logo-mini.svg",
