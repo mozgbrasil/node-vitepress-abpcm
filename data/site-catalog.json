@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T20:00:24.386Z",
+  "generated_at": "2026-04-27T07:55:53.539Z",
   "active_profile": "abpcm",
   "catalog": {
     "site": {
@@ -10,7 +10,7 @@
       "role": "Associacao de pacientes e portal nacional de cannabis medicinal",
       "location": "Brasil",
       "siteUrl": "https://mozgbrasil.github.io/node-vitepress-abpcm/",
-      "socialImage": "https://mozgbrasil.github.io/node-vitepress-abpcm/og.jpg",
+      "socialImage": "https://mozgbrasil.github.io/node-vitepress-abpcm/assets/profile-branding/abpcm-logo.png",
       "email": "atendimento.abpcm@gmail.com",
       "phone": "+55 11 92202-3780",
       "whatsapp": "+55 11 92202-3780",
@@ -22,8 +22,8 @@
       "openProfile": "",
       "curriculum": "https://www.abpcm.org.br/",
       "githubPages": "",
-      "profileImage": "/logo-mini.svg",
-      "institutionLogo": "",
+      "profileImage": "/assets/profile-branding/abpcm-logo.png",
+      "institutionLogo": "/assets/profile-branding/abpcm-logo.png",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Av.+Paulista+1636+CJ.+4+Sala+1504+Bela+Vista+Sao+Paulo+SP+01310-200",
       "mapsEmbedUrl": "https://www.google.com/maps?q=Av.+Paulista+1636+CJ.+4+Sala+1504+Bela+Vista+Sao+Paulo+SP+01310-200&output=embed",
       "address": {
@@ -451,7 +451,7 @@
         "title": "ABPCM",
         "handle": "@abpcm",
         "summary": "Presenca institucional organizada como portal nacional sobre cannabis medicinal, com legislacao, acesso, guia do paciente, associacao e atendimento.",
-        "image": "/logo-mini.svg",
+        "image": "/assets/profile-branding/abpcm-logo.png",
         "imageAlt": "Marca institucional da ABPCM",
         "imageNote": "Portal editorial e institucional da ABPCM",
         "primaryLinks": [
@@ -689,7 +689,7 @@
     }
   },
   "audit": {
-    "generated_at": "2026-04-24T20:00:24.386Z",
+    "generated_at": "2026-04-27T07:55:53.539Z",
     "company": "ABPCM - Associação Brasileira de Pacientes de Cannabis Medicinal",
     "site_url": "https://mozgbrasil.github.io/node-vitepress-abpcm/",
     "counts": {
