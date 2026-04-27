@@ -5,7 +5,7 @@
 - Role: Associacao de pacientes e portal nacional de cannabis medicinal
 - Location: Brasil
 - Site: https://mozgbrasil.github.io/node-vitepress-abpcm/
-- Generated at: 2026-04-24T20:00:24.386Z
+- Generated at: 2026-04-27T08:52:36.607Z
 
 ## Summary
 Portal nacional da ABPCM com legislacao, acesso, guia do paciente, associacao, governanca publica e ponte para a futura loja virtual Magento.
